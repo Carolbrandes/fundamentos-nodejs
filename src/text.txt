@@ -1,0 +1,5 @@
+Stateful = sempre vai ter algum tipo de informacao sendo guardada em memoria (em uma const, var), aplicacao dependende da memoria pra funcionar.
+
+Stateless = nao salva nada em memoria, salva no bd ou arquivo de textos, e ai aplicacao continua funcionando normalmente.
+
+Cabeçalhos = metadados. São informacoes para que o backend e frontend saiba lidar com aquela requisicao da melhor forma. Uma informacao add de como aquele dado pode ser interpretado pelo frontend

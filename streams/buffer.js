@@ -1,0 +1,1 @@
+//* buffer: e um espaco na memoria usado especificamente para transitar dados de uma maneira muito rapida, salvar e ler na memoria de uma maneira muito performatica. Guarda os dados de uma maneira binaria
